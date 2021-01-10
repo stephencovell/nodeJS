@@ -20,5 +20,19 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MLH/mlh-hackathon-nodejs-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MLH/mlh-hackathon-nodejs-starter/issues"
+  },
+  "homepage": "https://github.com/MLH/mlh-hackathon-nodejs-starter#readme"
 }
